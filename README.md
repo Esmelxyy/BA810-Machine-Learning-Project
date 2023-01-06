@@ -8,5 +8,5 @@ In this project, my teammates and I aimed to identify some key drivers of custom
 
 We built several machine learning classification models, such as decision tree, SVM, random forest, and XGboost etc., and conducted several hyperparameter tuning processes to get some evaluation metrics that could help us find the most important predictor variables. 
 
-At the end of this project, based on these top effected predictor variables, we generated some strategies and recommendations to help the bank increase its retention rate.
+At the end of this project, based on these top effected predictor variables, we came up with some strategies and recommendations to help the bank increase its retention rate.
 
